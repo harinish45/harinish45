@@ -39,8 +39,11 @@ CyberSec Awareness Blog → Published insights on cybersecurity best practices.
 Technical Skills & Tools
 
 💻 Languages → Python, C, Bash Scripting
+
 🖥️ OS → Linux (Kali, Ubuntu), Windows
+
 🔍 Security Tools → Metasploit, Wireshark, Burp Suite, Nmap
+
 ☁ Cloud & AI → AWS, ML for Security Applications
 
 
@@ -62,9 +65,5 @@ Connect with Me
   <a href="https://github.com/harinish45"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/harinish-s-v-1893652ab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
 </p>
----
 
-Collaboration
-
-I’m open to collaborating on cybersecurity projects, learning opportunities, and discussions. Feel free to explore my repositories and reach out!
 
