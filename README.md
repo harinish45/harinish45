@@ -1,72 +1,37 @@
+# Hi there, I'm **Harinish** 👋
 
+<p align="center">
+  <img src="https://your-image-link-here" alt="Profile Banner" />
+</p>
 
-Hey there, I'm Boss Harinish!
+## 🚀 About Me
+- 🏫 **First-Year CSE Cybersecurity Student at SRM Institute of Science and Technology**
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+- 💼 Aspiring to work in **Intrusion Prevention Systems & Digital Security**
+- 🌍 Exploring opportunities in **high-demand cybersecurity job markets**
+- 📖 Always learning and improving my **coding, research, and writing skills**
 
-> Emerging Cybersecurity Professional | Passionate About Protecting Digital Landscapes
+## 📜 Certifications
+- 🛰 **ISRO: Remote Sensing and Digital Image Analysis**
+- 🤖 **ISRO: AI/ML for Geodata Analysis**
+- 🛡 **TATA Strive: Cybersecurity for Beginners**
 
+## 🛠 Tech Stack & Tools
+![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+![Wireshark](https://upload.wikimedia.org/wikipedia/commons/e/e6/Wireshark_Logo.png)
 
+## 📊 GitHub Stats
+![Harinish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BossHarinish&show_icons=true&theme=dark)
 
+## 📌 Hands-on Projects
+- 🔎 **Cyber Threat Analysis using Wireshark**
+- 🔐 **Password Cracking Simulation with Hashcat**
+- 🌐 **Web Application Security Testing**
 
-
-🚀 About Me
-
-🎓 CSE Cybersecurity Student at SRM Institute of Science and Technology
-
-🔍 Exploring Ethical Hacking, Intrusion Prevention Systems (IPS), AI-driven Security
-
-🔥 Passionate about Threat Analysis, Secure Coding, and Digital Forensics
-
-💻 Currently mastering Python, C, Linux, and Network Security
-
-🛡️ Strong advocate for Open Source & Continuous Learning
-
-
-
----
-
-🏆 Certifications
-
-  
-
-📜 Certified in:
-
-Remote Sensing & Digital Image Analysis (ISRO)
-
-AI/ML for Geodata Analysis (ISRO)
-
-Cybersecurity for Beginners (TATA Strive)
-
-
-
----
-
-⚙️ Tech & Tools
-
-    
-
-
----
-
-🔥 Notable Projects
-
-📌 Check out my projects here
-
-
----
-
-📊 GitHub Stats
-
-
-
-
-
-
----
-
-📢 Let's Connect!
-
-🌐 LinkedIn: Harinish S V
-📧 Email: harinish45@example.com
-
-💡 Let's collaborate on exciting projects, learning opportunities, and cybersecurity discussions. Drop a star ⭐ on my repos if you find them useful!
-
+## 🌍 Connect with Me
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/bossharinish/)
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/BossHarinish)
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/BossHarinish)
